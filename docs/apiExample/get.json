@@ -1,0 +1,174 @@
+{
+    "products": [
+        {
+            "sku": 72081,
+            "nombre": "Incredible Granite Ball",
+            "categoria": "Books",
+            "estado": true,
+            "tieneImpuestos": false,
+            "marca": "Hahn, Schaefer and Hilpert",
+            "inventario": 63200,
+            "precios": {
+                "moneda": "CAD",
+                "precio": "441.00"
+            },
+            "imagenes": [
+                "http://lorempixel.com/640/480/food",
+                "http://lorempixel.com/640/480/food"
+            ]
+        },
+        {
+            "sku": 12683,
+            "nombre": "Tasty Cotton Towels",
+            "categoria": "Grocery",
+            "estado": false,
+            "tieneImpuestos": false,
+            "marca": "Mosciski and Sons",
+            "inventario": 98922,
+            "precios": {
+                "moneda": "TMT",
+                "precio": "342.00"
+            },
+            "imagenes": [
+                "http://lorempixel.com/640/480/food",
+                "http://lorempixel.com/640/480/food"
+            ]
+        },
+        {
+            "sku": 39985,
+            "nombre": "Tasty Granite Hat",
+            "categoria": "Health",
+            "estado": false,
+            "tieneImpuestos": true,
+            "marca": "O'Keefe and Sons",
+            "inventario": 24439,
+            "precios": {
+                "moneda": "ARS",
+                "precio": "235.00"
+            },
+            "imagenes": [
+                "http://lorempixel.com/640/480/food",
+                "http://lorempixel.com/640/480/food"
+            ]
+        },
+        {
+            "sku": 8782,
+            "nombre": "Tasty Soft Pizza",
+            "categoria": "Shoes",
+            "estado": false,
+            "tieneImpuestos": false,
+            "marca": "Spinka and Sons",
+            "inventario": 47749,
+            "precios": {
+                "moneda": "SEK",
+                "precio": "344.00"
+            },
+            "imagenes": [
+                "http://lorempixel.com/640/480/food",
+                "http://lorempixel.com/640/480/food"
+            ]
+        },
+        {
+            "sku": 17209,
+            "nombre": "Sleek Rubber Bike",
+            "categoria": "Automotive",
+            "estado": true,
+            "tieneImpuestos": true,
+            "marca": "Lakin Group",
+            "inventario": 28292,
+            "precios": {
+                "moneda": "ETB",
+                "precio": "5.00"
+            },
+            "imagenes": [
+                "http://lorempixel.com/640/480/food",
+                "http://lorempixel.com/640/480/food"
+            ]
+        },
+        {
+            "sku": 80326,
+            "nombre": "Incredible Soft Chips",
+            "categoria": "Toys",
+            "estado": true,
+            "tieneImpuestos": false,
+            "marca": "Goyette Inc",
+            "inventario": 5668,
+            "precios": {
+                "moneda": "VEF",
+                "precio": "754.00"
+            },
+            "imagenes": [
+                "http://lorempixel.com/640/480/food",
+                "http://lorempixel.com/640/480/food"
+            ]
+        },
+        {
+            "sku": 37054,
+            "nombre": "Awesome Steel Pizza",
+            "categoria": "Grocery",
+            "estado": false,
+            "tieneImpuestos": true,
+            "marca": "Funk Inc",
+            "inventario": 7255,
+            "precios": {
+                "moneda": "UZS",
+                "precio": "931.00"
+            },
+            "imagenes": [
+                "http://lorempixel.com/640/480/food",
+                "http://lorempixel.com/640/480/food"
+            ]
+        },
+        {
+            "sku": 98928,
+            "nombre": "Gorgeous Soft Computer",
+            "categoria": "Automotive",
+            "estado": false,
+            "tieneImpuestos": false,
+            "marca": "Altenwerth - Becker",
+            "inventario": 19063,
+            "precios": {
+                "moneda": "IQD",
+                "precio": "598.00"
+            },
+            "imagenes": [
+                "http://lorempixel.com/640/480/food",
+                "http://lorempixel.com/640/480/food"
+            ]
+        },
+        {
+            "sku": 1162,
+            "nombre": "Awesome Steel Salad",
+            "categoria": "Toys",
+            "estado": false,
+            "tieneImpuestos": true,
+            "marca": "Windler - Bruen",
+            "inventario": 62693,
+            "precios": {
+                "moneda": "TMT",
+                "precio": "312.00"
+            },
+            "imagenes": [
+                "http://lorempixel.com/640/480/food",
+                "http://lorempixel.com/640/480/food"
+            ]
+        },
+        {
+            "sku": 73419,
+            "nombre": "Unbranded Frozen Towels",
+            "categoria": "Music",
+            "estado": false,
+            "tieneImpuestos": true,
+            "marca": "Wilkinson - Prohaska",
+            "inventario": 56326,
+            "precios": {
+                "moneda": "ZAR",
+                "precio": "190.00"
+            },
+            "imagenes": [
+                "http://lorempixel.com/640/480/food",
+                "http://lorempixel.com/640/480/food"
+            ]
+        }
+    ]
+}
