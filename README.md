@@ -10,6 +10,7 @@ This test is a part of our hiring process at IsthmusIT for ReactJS frontend posi
 The goal of this test is to make you code a small ReactJS app. We have scaffolded a skeleton app for you, but please change whatever you want (CSS files, HTML structure, JS structure...).
 
 - Make sure to load the list of products at the beginning of the execution, it will change everytime you hit the API endpoint below.
+- If you use the static file located in `docs/apiExample/get.json` make sure to load it with an HTTP request.
 - The app can have as many components as you want.
 - Any library of your choice can be used.
 - Any design library of your choice can be used.
